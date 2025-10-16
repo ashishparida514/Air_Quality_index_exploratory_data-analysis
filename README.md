@@ -1,7 +1,6 @@
 # Air_Quality_index_exploratory_data-analysis
 
-License
-CC0: Public Domain
+
 Air Pollutants
 There are two main types of air pollutants: primary and secondary. Most air pollutants come from burning fossil fuels. Some come from burning forests. Some are due to the evaporation of chemicals.
 Types of Air Pollutants
@@ -46,4 +45,5 @@ The data is available in 5 different csv files:
 
 <img width="1139" height="693" alt="image" src="https://github.com/user-attachments/assets/32779790-07ce-41c3-af74-6a04f37cd0f6" />
 
-
+License
+CC0: Public Domain
