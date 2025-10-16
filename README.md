@@ -2,6 +2,7 @@
 
 
 Air Pollutants
+
 There are two main types of air pollutants: primary and secondary. Most air pollutants come from burning fossil fuels. Some come from burning forests. Some are due to the evaporation of chemicals.
 Types of Air Pollutants
 There are two basic types of pollutants in the air. They are known as primary pollutants and secondary pollutants. Primary pollutants enter the air directly. Some are released by natural processes, like ash from volcanoes. Most are released by human activities.
